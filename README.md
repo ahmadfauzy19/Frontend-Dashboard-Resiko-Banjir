@@ -13,7 +13,7 @@ aplikasi frontend berbasis **React + TypeScript + Vite + TailwindCSS + shadcn/ui
 
 ```bash
 # 1️⃣ Clone repository
-git clone https://github.com/<username>/<repo-name>.git
+git clone https://github.com/ahmadfauzy19/Frontend-Dashboard-Resiko-Banjir.git
 
 # 2️⃣ Masuk ke folder proyek
 cd Frontend-Dashboard-Resiko-Banjir
