@@ -3,7 +3,7 @@ aplikasi frontend berbasis **React + TypeScript + Vite + TailwindCSS + shadcn/ui
 
 ## ⚙️ Persiapan Environment
 
-- [Node.js](https://nodejs.org/) versi **18+**
+- [Node.js](https://nodejs.org/) versi **20.19.0 ++**
 - [npm](https://www.npmjs.com/) atau [pnpm](https://pnpm.io/) / [yarn](https://yarnpkg.com/)
 - Git
 
